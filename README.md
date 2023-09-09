@@ -1,2 +1,2 @@
-# kardeshev.com
-HTML/JS for Kardeshev Estimation Dashboard
+# kardashev.com
+HTML/JS for Kardashev Estimation Dashboard
